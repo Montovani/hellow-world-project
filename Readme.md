@@ -1,0 +1,1 @@
+Hello, this project is about my learnings in CSS and HTML. I will create a new page using my new knowledge.
