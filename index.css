@@ -5,3 +5,14 @@ body {
 .first-section {
     text-align: center;
 }
+.navbar-main {
+    display: flex;
+    justify-content: end;
+}
+.navbar-right {
+    display: flex;
+    justify-content: baseline;
+}
+.navbar-left {
+   
+}
