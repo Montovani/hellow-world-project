@@ -1,23 +1,32 @@
+html {
+    width: auto;
+}
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    width: 100%;
+    text-align: center;
 }
 .first-section {
     text-align: center;
 }
-.navbar-main {
+.navbar {
   display: flex;
-  justify-content: center;
-  height: 60px;
-  border-color: black;
-  box-shadow: 2px 7px 4px -5px #000000;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px;
 }
 .navbar-right {
   display: flex;
+  
 }
 .navbar-left {
-    display: inline-flex;
-    justify-content: end;
+    display: flex;
+}
+.navbar-item {
+    margin-right: 20px;
     
-   
+}
+.navbar-item img {
+    margin-left: 20px;
 }
