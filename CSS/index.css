@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.first-section {
+    text-align: center;
+}
+.navbar-main {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  border-color: black;
+  box-shadow: 2px 7px 4px -5px #000000;
+}
+.navbar-right {
+  display: flex;
+}
+.navbar-left {
+    display: inline-flex;
+    justify-content: end;
+    
+   
+}
